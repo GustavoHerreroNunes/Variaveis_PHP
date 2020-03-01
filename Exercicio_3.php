@@ -47,7 +47,7 @@
 			print "</Vals><p>";
 			
 			echo "Conteúdo de varbool: <Vals>", $varbool;
-			print "</Vals><p>";
+			print "</Vals>";
 			
 		?>
 		</center>

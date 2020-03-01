@@ -28,32 +28,25 @@
 			echo "<p id='Tit'><b>Exemplo de uma aplicação em</br>PHP</b></p>";
 			print "<p>";
 			
-			echo "Conteúdo de var1: <Vals>";
-			echo $var1;
+			echo "Conteúdo de var1: <Vals>", $var1;
 			print "</Vals><p>";
 			
-			echo "Conteúdo de varX: <Vals>";
-			echo $varX;
+			echo "Conteúdo de varX: <Vals>", $varX;
 			print "</Vals><p>";
 			
-			echo "Conteúdo de varY: <Vals>";
-			echo $varY;
+			echo "Conteúdo de varY: <Vals>", $varY;
 			print "</Vals><p>";
 			
-			echo "Conteúdo de var2: <Vals>";
-			echo $var2;
+			echo "Conteúdo de var2: <Vals>", $var2;
 			print "</Vals><p>";
 			
-			echo "Conteúdo de varSTR: <Vals>";
-			echo $varSTR;
+			echo "Conteúdo de varSTR: <Vals>", $varSTR;
 			print "</Vals><p>";
 			
-			echo "Conteúdo de varletra: <Vals>";
-			echo $varletra;
+			echo "Conteúdo de varletra: <Vals>", $varletra;
 			print "</Vals><p>";
 			
-			echo "Conteúdo de varbool: <Vals>";
-			echo $varbool;
+			echo "Conteúdo de varbool: <Vals>", $varbool;
 			print "</Vals><p>";
 			
 		?>
